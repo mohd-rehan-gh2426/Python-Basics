@@ -64,3 +64,5 @@ mutable datatypes can't become the keys in dictionary in python
 
 test_set = {'rehan',2,'pani',4,True,6,'soap','rehan',4}
 print(test_set)
+
+#type() => it is used to check the dataype of any variable.
